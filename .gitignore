@@ -1,0 +1,49 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Build
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI/ML Models
+model/
+model_rl/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Training Logs
+runs/
+logs/
+checkpoints/
+
+# Large Files
+*.zip
+*.tar
+*.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
